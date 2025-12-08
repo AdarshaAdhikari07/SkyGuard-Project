@@ -74,6 +74,7 @@ if not st.session_state.game_active and st.session_state.rounds == 0:
     **Role:** Security Screening Officer
     
     **Objective:** Inspect luggage X-rays for prohibited items.
+    
 
     **⚠️ TARGET THREATS (LOOK FOR THESE):**
     """)
